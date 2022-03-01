@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iune, 25. Numb. 31. The continuation of our weekly nevves from forraine parts Contayning amongst divers matters these particulars following. The preparation of the Duke of Saxony and all the Protestant princes, and their vnanimous joyning with the King of Sweden, for the recovery and preservation of theyr liberties, against the unjust persecution of the Emperour. The great preparation of the King of Svveden for the performance of some great designe about the river blve. The Emperours denunciation of grievuous punishment against the citie Newrembergh and all that shall partake with them, by reason they continue in the raising forcesx contrary to the Emperours command, tow hich end the Emperor hath given charge to the D. of Bavaria to oppose them with all his powers. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14952</idno>
+            <idno type="STC">STC 18507.218</idno>
+            <idno type="STC">ESTC S120130</idno>
+            <idno type="EEBO-CITATION">99855330</idno>
+            <idno type="PROQUEST">99855330</idno>
+            <idno type="VID">177448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1562:9b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iune, 25. Numb. 31. The continuation of our weekly nevves from forraine parts Contayning amongst divers matters these particulars following. The preparation of the Duke of Saxony and all the Protestant princes, and their vnanimous joyning with the King of Sweden, for the recovery and preservation of theyr liberties, against the unjust persecution of the Emperour. The great preparation of the King of Svveden for the performance of some great designe about the river blve. The Emperours denunciation of grievuous punishment against the citie Newrembergh and all that shall partake with them, by reason they continue in the raising forcesx contrary to the Emperours command, tow hich end the Emperor hath given charge to the D. of Bavaria to oppose them with all his powers. ...</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath: Butter and Nicholas Bourne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Formerly STC 25201b, part 2.</note>
+                  <note>Identified as STC 25201b on UMI microfilm, reel 1562.</note>
+                  <note>Now = Newsbooks 218.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177448:1"/>
+            <pb facs="tcp:177448:1" rendition="simple:additions"/>
+            <p>
+               <hi>June,</hi> 25.</p>
+            <p>
+               <hi>Numb.</hi> 31.</p>
+            <p>THE CONTINVATION of our weekly Newes from Forraine parts, <hi>Contayning amongst divers matters theſe Particulars following.</hi>
+            </p>
+            <list>
+               <item>The preparation of the Duke of <hi>Saxony</hi> and all the Proteſtant Princes, and their vnanimous joyning with the King of <hi>Sweden,</hi> for the recovery and preſervation of theyr Liberties, againſt the unjuſt perſecution of the Emperour.</item>
+               <item>The great Preparation of the King of SVVEDEN for the performance of ſome great Deſigne about the River <hi>Elve.</hi>
+               </item>
+               <item>The Emperours denunciation of grievous Pu<g ref="char:EOLhyphen"/>niſhment againſt the Citie <hi>Newrembergh</hi> and all that ſhall partake with them, by reaſon they continue in the raiſing Forces contrary to the Emperours Com<g ref="char:EOLhyphen"/>mand, to which end the Emperor hath given charge to the D. of <hi>Bavaria</hi> to oppoſe them with all his power.</item>
+               <item>
+                  <hi>Two thundring Ploclamations of the Emperours, againſt all the Proteſtant Princes of the late</hi> Diet <hi>at</hi> Lypſich, <hi>and all thoſe which Ioyne with them.</hi>
+               </item>
+               <item>The Malicious inhumane Cruelty offered to the Dead bodies of thoſe which were Martyred at the taking of <hi>Mag<g ref="char:EOLhyphen"/>denburgh,</hi> and <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llies</hi> cauſing of <hi>Te Deum</hi> to be ſung for his Bloudy maſſacring of the innocent Proteſtants.</item>
+               <item>
+                  <hi>The late proceeding on both ſides in the</hi> Low-Countries.</item>
+            </list>
+            <p>LONDON. Printed for <hi>Nath: Butter</hi> and <hi>Nicholas Bourne.</hi> 1631.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177448:2"/>
+            <pb n="1" facs="tcp:177448:2"/>
+            <head>THE CONTINVATION OF our Weekely Newes.</head>
+            <div type="part">
+               <head>From <hi>Venice</hi> the <hi>24.</hi> of May. <hi>1631.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">C</seg>Oncerning the Peace now, there is no farther queſtion made, ſince there are no more forces leavied. And beſides this, the Governour of <hi>Mylan</hi> hath faithfully promiſed within the ſpace of one Moneth, to eſtabliſh a Generall reformation.</p>
+               <p>The Meſſenger which is returned from his Emperial Maj. Certifie, that notwithſtanding his Maj. did not well like and approve of the agreement made at <hi>Cheraſco,</hi> con<g ref="char:EOLhyphen"/>cerning the <hi>Switzers</hi> at <hi>Suza,</hi> and <hi>Avigliano.</hi> Nevertheleſſe, he is now willing to ſtand to, and ratifie the ſame: to the end, that <hi>Italie</hi> might ſubſiſt in Peace and tranquility, and all theſe broyles and diſtractions, may be allayed and have a quiet end. And furthermore, that remainder of thoſe Spaniſh forces in <hi>J<g ref="char:EOLhyphen"/>talie,</hi> may be brought together, and march toward the lower-Palatinate, there to be enquartered. For all the Forces out of thoſe parts are departed, and are at this preſent employed, ſome of them againſt the King of <hi>Sweden,</hi> and the reſt are marched into the <hi>Netherlands,</hi> and are employed againſt the States.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Overlandt</hi> the <hi>26.</hi> of May.</head>
+               <p>The troupes of Souldiers which late came out of <hi>Italy,</hi> re<g ref="char:EOLhyphen"/>maine yet in full eſſence, and are dayly ſtrengthened and aug<g ref="char:EOLhyphen"/>mented. It ſeemes that whereas formerly, there ſolution was to bring them downe toward the <hi>Donou,</hi> the ſame no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is altered; thoſe Forces ſhall be employed againſt the League, contracted by the Proteſtant Princes and Peeres at <hi>Leypſich.</hi> Eſpecially, for the defence of the ſmaller Townes, as <hi>Memming</hi> and the like. Which at this preſent are in great danger, and extreamly threat<g ref="char:EOLhyphen"/>ned, if ſo be they would not yeeld themſelves to that League, and receive ſome of the Proteſtant forces, that then they ſhall preſently be attached. Hereupon the Imperialiſts doe not onely expect the reſt of their forces, but alſo certaine thouſands more
+<pb n="2" facs="tcp:177448:3"/>of <hi>Spaniſh</hi> and <hi>Italians</hi> to ayd and aſſiſt them. Wherefore men in theſe parts are much troubled and perplexed, and take great care how to diſpoſe of all their troupes, and where they ſhall become, and how they ſhall be billetted and enquartered. His Maj. the Emperour, hath forewarned us in theſe parts, not one<g ref="char:EOLhyphen"/>ly to provide for the enquartering of thoſe <hi>Spaniſh</hi> and <hi>Italian</hi> Forces, which are to come, and are now upon the march, but alſo to find quarter for 25000. other forces, which ſhall bee newly raiſed.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Vlm</hi> the <hi>25</hi> of May.</head>
+               <p>The Imperiall Forces from <hi>Jtalie</hi> being 8000. ſtrong are yet hereabouts, they enforme us that certaine thouſands more <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Forces are ſhortly to follow them.</p>
+               <p>They intend to blocke up <hi>Memmimgen,</hi> and will againe re<g ref="char:EOLhyphen"/>duce the ſame under contribution, and bring it under the Em<g ref="char:EOLhyphen"/>perours Iuriſdiction. And for the enſuring of the ſame, they will lay in ſome Troupes for Garriſon there. And doubtleſſe as thoſe of <hi>Memmimgen</hi> ſpeed, we muſt look for the ſame, and not to fare better than our neighbours. Wherefore we of this Citie, the better to defend &amp; guard our ſelves, we have cauſed all the trees to be hewen downe, which ſtood before the <hi>Helbergate</hi> of this Citie. The Duke of <hi>Wirtenbergh</hi> with his forces, lyes upon the frontiers.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Berlyn</hi> the <hi>27.</hi> of May.</head>
+               <p>The foote Forces of the King of <hi>Sweden</hi> at this preſent are at <hi>Poſedan.</hi> And his <hi>Cavallerie</hi> is betweene the <hi>Deſſaw</hi> Sconce, and <hi>Poſedan.</hi> It ſeemes as we by all circumſtances can gather, and conjecture, that his Majeſty intends not to enquarter long in theſe parts. But doe rather thinke that hee will undertake ſome ſiedge or other. For his Majeſty to that end hath cauſed many boards and other neceſſaries to be ſhipped. And forth of every Regiment he hath taken 400. horſe, for to convey the Ordnance, munition, and other Sconce proviſion. The Lord Feeld-Marſhall conducts an Army of 1000. men, which he doth dayly enforce and augment, and levies very ſtrongly to that end. The Forces which were in <hi>Pomerania,</hi> are now on the march.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Franfort Oder</hi> the <hi>29.</hi> of May.</head>
+               <p>All things here (God be praiſed) are in good being, and great and vigilant care is taken for this Citie: great paines day<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:177448:3"/>is taken about the fortifications of the ſame. Within this Weeke were brought into this Citie, ſo many horſes of the Im<g ref="char:EOLhyphen"/>perialiſts, as made up 5. Companies compleat. Theſe horſes were taken grafing neare unto great <hi>Glogan.</hi> The Queenes Majeſty of <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaen</hi> ſent hither lately two Camels richly Laden, to his Maj. with enformation, that God willing ſhee doth intend ſhortly to arrive at <hi>Wolgaſt</hi> or at <hi>Straelzondt</hi> her ſelfe in perſon. Yeſterday here marched by 3. Regiments toward <hi>Croſſend</hi> and farther into <hi>Sileſia.</hi>
+               </p>
+               <p>About <hi>Statyn</hi> great forces are raiſed, and the King of <hi>Sweden</hi> cauſes an Army to be aſſembled to aſſault the Imperialiſts which are at <hi>Melchim.</hi> There are dayly and hourely expected 2000. men from <hi>Colbergh</hi> to march hither, and alſo 6000. from <hi>Ru<g ref="char:EOLhyphen"/>gen.</hi> When theſe ſhall be arrived, his Maj. reſolves with vio<g ref="char:EOLhyphen"/>lence vehemently to aſſault <hi>Gripſwolde,</hi> and afterward to con<g ref="char:EOLhyphen"/>duct an Army into <hi>Mechelenbergh.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Leypſich</hi> the <hi>31.</hi> of May.</head>
+               <p>The Prince <hi>Elector</hi> of <hi>Saxony,</hi> as alſo, the Marq. of <hi>Brandenbrugh,</hi> with their Dukedomes &amp; all their adherents, and Confederates, have yeelded and betaken themſelves freely unto the defence &amp; protection of his Maj. of <hi>Sweden.</hi> The paſſage of <hi>Wirtenbergh</hi> is now alſo granted unto his Maj. At this preſent here at <hi>Leip<g ref="char:EOLhyphen"/>ſeich</hi> are Embaſſadors of the King of <hi>England,</hi> the King of <hi>Swe<g ref="char:EOLhyphen"/>den,</hi> the Prince Elector of <hi>Saxonie,</hi> and of the Marquis of <hi>Bran<g ref="char:EOLhyphen"/>denburgh.</hi> And certaine it is that throughout the whole Duke<g ref="char:EOLhyphen"/>dome of <hi>Saxonie,</hi> the Drum beates, and forces levied openly for his Majeſtie of <hi>Sweden.</hi>
+               </p>
+               <p>The Merchants here muſt contribute to his Princely Excel<g ref="char:EOLhyphen"/>lence of <hi>Saxony,</hi> 6000. and the reſt of the Cittizens of <hi>Leipſich,</hi> 2000. Florins: and beſides this ſum, a generall contribution will be raiſed throughout the whole Dukedome.</p>
+               <p>
+                  <hi>Magdonburgh</hi> by the reaſon of the late miſerable and hide<g ref="char:EOLhyphen"/>ous diſaſter happened there, is reduced to an heape of ſtones, being quite and utterly ruinated. There are not left ſtanding a<g ref="char:EOLhyphen"/>bove 60. or 70. houſes about the Walles, and here and there an houſe at the corner of a Street.</p>
+               <p>His Majeſtie of <hi>Sweden</hi> cauſes a Ship-Bridge to be layd over the River of <hi>Elve,</hi> at <hi>Angermundt.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:177448:4"/>
+               <head>From <hi>Leypſich</hi> the firſt of June.</head>
+               <p>Laſt Thurſday the Prince Elector of <hi>Saxony,</hi> departed hence to <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orgau,</hi> to muſter, the new levied forces there, which are certaine thouſands ſtrong, he will returne from thence hither a<g ref="char:EOLhyphen"/>gaine. He hath more Patents to levie other forces, both horſe and foote.</p>
+               <p>The report here is very ſtrong, that the Generall <hi>Tilly</hi> hath ſent a Legate to our Prince Elector: to acquaint him, that very ſhortly he doth intend to come himſelfe in perſon, to conferre with his Princely Excellence; declaring farther, that he had ob<g ref="char:EOLhyphen"/>tained good meanes for the contracting of a Peace; which then he would propound unto him. And that he had full authoritie and Commiſſion from his Emp. Maj. which <hi>Tilly</hi> hath conſen<g ref="char:EOLhyphen"/>ted unto.</p>
+               <p>Within <hi>Wirtenbergh</hi> at this preſent, are 1500. Souldiers, which were levied for the Duke of <hi>Saxony,</hi> In their Enſigne they bare this Motto.</p>
+               <q>
+                  <l>
+                     <hi>Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ough Gods Almighty hand,</hi>
+                  </l>
+                  <l>
+                     <hi>We doe defend our Land.</hi>
+                  </l>
+               </q>
+               <p>In other Enſignes which belong to the Forces of the Prote<g ref="char:EOLhyphen"/>ſtant Princes is comprized this.</p>
+               <q>
+                  <hi>Not without cauſe, doe We maintaine this Cauſe.</hi>
+               </q>
+               <p>The Generall <hi>Tilly</hi> cauſeth all the Ordnance (which he obtai<g ref="char:EOLhyphen"/>ned in <hi>Magde<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>burgh</hi>) to be convayed to <hi>Groingen,</hi> and hath alſo given charge and ſtrickt command to two or three hundred Boores or Countrymen, to caſt all thoſe Souldiers which were taken Priſoners in the ſayd Citie <hi>Magdenburgh,</hi> with the Car<g ref="char:EOLhyphen"/>kaſſes of the poore Maſſacred people, into the river <hi>Eive.</hi> But his owne Souldiers which were ſlaine in that expedition, hee yeelded extraordinary honourable buriall. He hath cauſed the ſaid Priſoners to be ſtrictly examined, to know what is become of their treaſure, and where they have hid the ſame The Gene<g ref="char:EOLhyphen"/>rall doth at this preſent ſtrike a bridge over the Riuer <hi>Elve,</hi> to march with an army againſt the King of <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eden.</hi>
+               </p>
+               <p>The army of the King of <hi>Sweden</hi> is pitcht about <hi>Brandenburgh, Ratenau, Nawen, Tremmen, Spandan,</hi> &amp; thoſe quarters. The Duke of <hi>Saxony,</hi> the Marq. of <hi>Brandenburgh,</hi> and more of the Vnited and Confederate Princes, have given themſelves under the Protecti<g ref="char:EOLhyphen"/>on of his Majeſty of <hi>Sweden,</hi> &amp; have yeelded unto him the paſſage neare unto <hi>Wirtenbergh.</hi>
+               </p>
+               <pb n="5" facs="tcp:177448:4"/>
+               <p>The report is very ſtrong here, that the King of <hi>Sweden</hi> doth intend to revenge the intollerable uſage of the Imperia<g ref="char:EOLhyphen"/>liſts at <hi>Magdenburgh,</hi> he hath ſome notable exployt in hand, wherefore he hath newly layd a Bridge over the River <hi>Elve,</hi> neare unto <hi>Angermunde.</hi>
+               </p>
+               <p>His Emp. Maj. hath denounced Baniſhment, and ſorely threatned the Citie <hi>Neurezbergh,</hi> becauſe they continue leavy<g ref="char:EOLhyphen"/>ing of forces his Majeſty therefore hath delivered the ſame Ci<g ref="char:EOLhyphen"/>tie to the Duke of <hi>Bavaria,</hi> and ſtrongly charged the ſaid Duke to perſecute thoſe that are belonging unto <hi>Neurenburgh</hi> with fire and ſword: as alſo all thoſe that adhere unto them. But they regard not theſe threatnings, but doe proceed ſtrongly with their raiſing of men. And not onely at <hi>Neurenburgh,</hi> but through<g ref="char:EOLhyphen"/>out the whole Iurisdictions of all the Proteſtant Princes.</p>
+               <p>His Majeſty of <hi>Sweden</hi> hath arreſted and ſtayed certaine Mer<g ref="char:EOLhyphen"/>chants at <hi>Spandau,</hi> who were journeying toward <hi>Hamburgh,</hi> and required of them fifty thouſand Ryxdollers, which they were conſtrained to pay, becauſe they had in their company an Emperiall Commiſſarie, who had betaken himſelfe into this Company, to be ſheltered and ſo to paſſe for a Marchant, who otherwiſe in former time was run from his Majeſty of <hi>Swedens</hi> ſervice, unto the Emperour but now is in hold.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Magdenburgh</hi> the <hi>28.</hi> of May.</head>
+               <p>All the dead Carkaſſes are now almoſt convayed out of this Citie, which have ſorely peſtered and annoyed us hitherto, and above 2500. Citizens, which were ſlaine in the fury and burnt, are caſt into the River <hi>Elve.</hi> There were many of them ſo diſ<g ref="char:EOLhyphen"/>figured with the fire, that it was impoſſible any way to diſ<g ref="char:EOLhyphen"/>cerne them who they were. Yeſterday here was ſung for Ioy of the taking of this Citie. <hi>Te Deum Laudamus,</hi> and the Ord<g ref="char:EOLhyphen"/>nance of the Citie, three times diſcharged. The Generall <hi>Tilly</hi> is at this preſent here, and is lodged in the 6. Shop-houſes with his Concomitants.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Brandenburgh</hi> the firſt of June.</head>
+               <p>The whole <hi>Marck</hi> even vnto the river <hi>Elue,</hi> is now quite freed from the Imperialiſts. Yeſterday Doctor <hi>Stollman</hi> arriued here, who was taken priſoner at the looſing of <hi>Man<g ref="char:EOLhyphen"/>denburgh</hi> with his Sonne. Hee eſcaped with his Sonne whilſt the fire was ſo exceeding great in the Emperours Army neare
+<pb n="6" facs="tcp:177448:5"/>vnto <hi>Magdenburgh,</hi> but was conſtrained to ſwimme through the Riuer <hi>Elue,</hi> but now is here with his Maieſtie of <hi>Sweden.</hi> Into this Army come dayly ſome <hi>Magdenburgers</hi> or other which formerly were impriſoned but now are ranſomed. Ye<g ref="char:EOLhyphen"/>ſterday were attached the <hi>Hamburger</hi> goods which were brought from <hi>Leypſich</hi> betweene <hi>Ferberlin</hi> and <hi>Spandou.</hi> A cer<g ref="char:EOLhyphen"/>taine Commiſſarie of the Emperour named <hi>Potau</hi> thought to haue paſſed along currantly with their Marchandizes, but both he and they were ſtayd and brought to <hi>Spandou</hi>
+               </p>
+               <p>The <hi>Hamb<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rgers</hi> for the releaſing of their Commodities haue proferred the Kings Maieſtie 80000 <hi>Ryxedollers.</hi> At <hi>W<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt</hi> are arriued 5000. men which came out of <hi>Swede<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and more forces are thence expected dayly. Beſides theſe, 15000 men are alſo expected from <hi>Muſcouia.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Franckfort-Oder</hi> the <hi>2.</hi> dito.</head>
+               <p>Yeſterday were brought in hither 5. Companies of Horſe, which our forces tooke from the Imperialiſts neare unto great <hi>Gloga<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> having defeated the Men. Hence are gone 3. Compa<g ref="char:EOLhyphen"/>nies cut of this Citie, as alſo divers out of other Cities to re<g ref="char:EOLhyphen"/>leeve <hi>Croſſen,</hi> which the Imperialiſts ſeeme to ayme at. Here in this Citie are ſtill aboundance of men and amongſt the reſt 800. ſicke Soldiers. His Maieſtie of <hi>Sweden</hi> hath ſhipt aboue 100. peeces of Ordnance at the <hi>Haukll.</hi> Some light peeces which may be drawne with one, and two horſes. Hee intends doubtleſſe ſome notable enterpriſe. For in his march he ioynes to euery Regiment 10. Peeces of Ordnance.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Iſleven,</hi> the <hi>30.</hi> of May.</head>
+               <p>The 13. of this Month, the Imperiall Army neare unto <hi>Mag<g ref="char:EOLhyphen"/>denburgh,</hi> happened on fire in three ſeverall places: which fire did much harme amongſt them. But by their loſſe ſome fared the better. For Doctor <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ollman</hi> the <hi>Swediſh</hi> Chancellor, eſcaped from his impriſonment who was impriſoned with the Byſhop of <hi>Halverſtad<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> This Doctor, and his ſonne, and two Gentlemen, Servants to the Marſhall <hi>Falckenburgh,</hi> and one Captaine <hi>Creſſe,</hi> eſcaped, and are ſafely arrived at <hi>Brandenburgh.</hi> There were 400 Children of tender yeares within <hi>Magdenburgh;</hi> kept two dayes long in the Cathedral Church, which miſſed their Parents and knew not what was become of them, theſe poore children in two dayes ſpace, eat no victuals, inſomuch that ſome of them were famiſhed.</p>
+            </div>
+            <div type="decree">
+               <pb n="7" facs="tcp:177448:5"/>
+               <head>The Imperiall Mandat or Decree publiſhed againſt the concluſi<g ref="char:EOLhyphen"/>on and reſolution lately taken by the Proteſtant Electors, Princes and States, aſſembled at <hi>Leipſick.</hi>
+               </head>
+               <p>
+                  <hi>FErdinand,</hi> &amp;c. To all and every our and the holy Em<g ref="char:EOLhyphen"/>pires Electors, Princes, ſpirituall and temporall Prelates, Earles, Barons, Lords, Knights, Marſhalls, Captaines, Maiors, Bailiffs, Iudges, Counſellors, Citizens, Communal<g ref="char:EOLhyphen"/>ties, and to all and every our and the Empires Subjects: But more particularly to all Commanders, Colonels, Captaines both of horſe and foot, Enſignes, Lievtenants, and to all other Officers, and generally to all Soldiers both foot and horſe, of what nation, dignity and condition ſoever, and in what ſer<g ref="char:EOLhyphen"/>vice (out of our Armies) ſoever they are or may be, unto whom theſe our Patents and Commandements, or a true copy thereof (which we will have beleeved and obeyed as the Ori<g ref="char:EOLhyphen"/>ginall it ſelfe) ſhall appeare, We hereby doe ſignifie, Wheras by Letters dated the fourth of <hi>April</hi> laſt the Elector and Duke of <hi>Saxen</hi> hath given us notice of a concluſion made by the E<g ref="char:EOLhyphen"/>lectors, States, Counſellors, Ambaſſadours, Deputies, and Commiſsioners of ſuch Proteſtants as were abſent, lately aſ<g ref="char:EOLhyphen"/>ſembled at <hi>Leipſick,</hi> the ſtrangeneſſe whereof hath much mo<g ref="char:EOLhyphen"/>ved and filled with diſpleaſure our Imperiall heart, ſince that the ſaid Electors, Princes and States have agreed and bound themſelves, quite contrary to our admonitions ſent before to the ſaid electour of <hi>Saxen,</hi> under pretext of an order of Exe<g ref="char:EOLhyphen"/>cution of the Circles, to make a dangerous preparation of Warre; and, without any ſignification of their number and de<g ref="char:EOLhyphen"/>ſignes, make now already (as from divers parts we are adver<g ref="char:EOLhyphen"/>tiſed) in ſeverall Circles, and particularly in our Imperiall Ci<g ref="char:EOLhyphen"/>ties great levies: And whereas it is eaſie to preſume, that at this perillous conſtitution of the Empire, where the King of <hi>Sweden</hi> is entered as an enemy, and having already taken whole <hi>Pomerany,</hi> a part of the Mark of <hi>Brandenburg,</hi> and ſome places <hi>Mecke<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>burg,</hi> will daily proceede, and incite other forraine forces to doe much: Where the rebellious Towne of <hi>Mag<g ref="char:EOLhyphen"/>denburg</hi> is not yet brought to obedience, and where many old dangers doe yet appeare; ſuch a dangerous beginning and in<g ref="char:EOLhyphen"/>tent would tend to hinder (and as it were to bereave us of) all
+<pb n="8" facs="tcp:177448:6"/>meanes to maintaine the Warres, now ſo requiſite for the de<g ref="char:EOLhyphen"/>fence and neceſsity of the holy Empire and States thereof; it would further and advantage the power of the enemies; cauſe yet a greater confuſion, troubles and evils, and withall a farre greater miſtruſt and hatred amongſt this Nation: Yea (un<g ref="char:EOLhyphen"/>leſſe it be with all ſpeed withſtood) it would bring into the whole <hi>Roman</hi> Empire of the <hi>German</hi> Nation (our deare Coun<g ref="char:EOLhyphen"/>try) a new unquenchable fire whereby the ſame (which theſe 800 yeeres hath moſt ſweetly flouriſhed) would now at once bee conſumed to aſhes and wholly overthrowne. Therefore we knowing that our duty requires that, as <hi>Roman</hi> Emperour we doe prevent all ſuch threatning evills, and that ſuch agree<g ref="char:EOLhyphen"/>ments and unions are not to be made nor ſuffered without the knowledge, conſent and pleaſure of the <hi>Roman</hi> Emperour, who we are, but that they are quite contrary unto the Laws, orders and conſtitutions of the Empire, and the dehortations and admonitions made by us being prohibited under great and grievous puniſhments, ſo that wee intend by no meanes to ſuffer the ſame. We doe hereby admoniſh, will and com<g ref="char:EOLhyphen"/>mand you and every of you, and our expreſſe will, pleaſure and commandement is, that you doe not give nor permit any place of <hi>Rendez-vous</hi> unto my troopes or ſouldiers, that are, may or might be levied on the behalfe of the ſaid agreement and concluſion made at <hi>Leipſick;</hi> Neither grant any of them paſſage or paſſe whatſoever, but rather where any ſhall be met or found, that you beat, deſtroy, diſperſe and kill them, as you will anſwer the contrary at your perils of the puniſhments expreſſed in the conſtitutions of the Empire. And moſt ear<g ref="char:EOLhyphen"/>neſtly we doe require and command you the Colonels, Lievte<g ref="char:EOLhyphen"/>nants Captaines, Enſignes Commanders, and all other Offi<g ref="char:EOLhyphen"/>cers both of horſe and foot, and all ſoldiers of what name, con<g ref="char:EOLhyphen"/>dition and quality ſoever they are or may be, that already are received and entred, or ſhall yet enter into ſervice of the ſaid preparation and agreement made at <hi>Leipſick,</hi> againſt our knowledge, will and pleaſure, and againſt our deho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tations, and the Lawes and Rights of the Empire; and more particu<g ref="char:EOLhyphen"/>larly all thoſe that in any way are ſubject unto us and the holy Empire upon paine and perils comprehended in the ſaid Im<g ref="char:EOLhyphen"/>periall conſtitutions, and upon paine to loſe all the priviledges,
+<pb n="9" facs="tcp:177448:6"/>favours, rights, lands, poſſeſſions, and alſo all rights of Com<g ref="char:EOLhyphen"/>panies, Cities and birth; And ſuch others as are not ſubject to us nor the Empire, upon paine of death, when and whereſoe<g ref="char:EOLhyphen"/>ver they ſhall be apprehended. Wee moſt earneſtly and ex<g ref="char:EOLhyphen"/>preſly command, to give over and forſake all ſuch ſervice, and in time to come never to returne or enter into the ſame with<g ref="char:EOLhyphen"/>out our knowledge and permiſsion, under what pretext or colour ſoever they be required or may be induced: And that you make no excuſe of your ſtay by reaſon of the oath you may or might be ſworne and bound by, ſince the ſame in this con<g ref="char:EOLhyphen"/>ſtitution of time is without force I and we doe hereby and by vertue of our Imperiall power diſcharge and free you of: And if there ſhould be found ſome amongſt you the ſaid Colo<g ref="char:EOLhyphen"/>nels, Captaines, Enſignes, and other Officers and common ſol<g ref="char:EOLhyphen"/>diers of horſe or foot, that have entered into any ſervice ei<g ref="char:EOLhyphen"/>ther at home in their owne Country, or abroad amongſt the troopes of ſtrangers, they and every of them, that in obedi<g ref="char:EOLhyphen"/>ence to this our Imperiall commandement doe or ſhall returne from that their ſervice unto our troopes, there to ſerve us and the Empire, and bring their atteſtations from our Officers, ſhall have a generall and ſpeciall pardon, and be received a<g ref="char:EOLhyphen"/>gaine into our Imperiall grace. And we will and command withall you the ſaid Electors, Princes and States, lately thus ar<g ref="char:EOLhyphen"/>rived at <hi>Leipſick,</hi> not to charge or lay upon your vaſſals, te<g ref="char:EOLhyphen"/>nants, inhabitants, burgers and ſubjects (in all and every your Countryes, Dominions, Cities, and alſo all Imperiall Townes and Dominions) any contribution, taxe or ſubſidy for and on the behalfe of your ſaid levies intended and made againſt our will and contrary to the conſtitutions of the Empire; Com<g ref="char:EOLhyphen"/>manding withall, if any ſuch impoſition and contribution is or ſhould be required, all you the vaſſals, tenants, burgers, in<g ref="char:EOLhyphen"/>habitants and ſubjects aforeſaid upon the like and afore men<g ref="char:EOLhyphen"/>tioned paine and upon perill to loſe all priviledges, rights, and freedomes abovementioned, not to pay or to deliver the ſaid contribution, but rather to remaine conſtant and faithfull in thoſe duties you owe to us, as <hi>Roman</hi> Emperour and Su<g ref="char:EOLhyphen"/>preme head of the hol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Roma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Empire, and alſo to ſhew all fa<g ref="char:EOLhyphen"/>vour and furtherance to him that b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ingeth this our Imperiall and expreſſe commandement, that the ſame may without any
+<pb n="10" facs="tcp:177448:7"/>let or moleſtation bee hung up and publiſhed, according to your duty and according to our reſolution and gracious and conſtant intention, that we will not ſuffer you nor any of you, the Electors, Princes and all others, upon your obedience and duty you ſhall ſhew herein, to be troubled or grieved, either by us or others, againſt the peace of the Religion and Policy. And hereof you are not to faile, but dutifully to obey as you tender our pleaſure, and will avoid the puniſhments and reall executi<g ref="char:EOLhyphen"/>on of the foreſaid paine. And this is our expreſſe will and pleaſure. </p>
+               <closer>
+                  <dateline>Given at <hi>Vienna</hi> 
+                     <date> the fourteenth day of <hi>May,</hi> 1631.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Extract of ſeverall freſh Letters written out of <hi>Germany.</hi>
+               </head>
+               <p>THe cruelty uſed by the Imperialiſts at the taking of <hi>Mag<g ref="char:EOLhyphen"/>denburg</hi> (the like no Hiſtory hath nor could ever make mention of) had indeed troubled many Proteſtants in <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> eſpecially the Elector of <hi>Saxen</hi> found himſelfe much perplexed upon the newes thereof, when he likewiſe was much troubled and urged by an Imperiall Ambaſſadour and many other Meſſengers and letters, both from the Emperour and other Catholike Electors and Princes. Howſoever ſeeing by the example of <hi>Magdenburg</hi> what he and others of his Profeſsion and Religion have to looke for at their enemies hands and promiſes, and conſidering the Imperiall Mandates and Proclamations, publiſhed (like a thunder) againſt the con<g ref="char:EOLhyphen"/>cluſion lately taken by him and other Proteſtant Princes and States aſſembled at <hi>Leipſick;</hi> and hearing withall of the doubt and feare divers made of his conſtancie in the ſaid reſolution, he both gave order for the greater ſpeed in the levying of his owne forces and ſent alſo ſeverall Meſſengers to other Prote<g ref="char:EOLhyphen"/>ſtant Princes, States and Imperiall Cities, with ample letters, whereby he doth not onely aſſure them of his conſtancie and proceeding in the performance of their reſolution, But ex<g ref="char:EOLhyphen"/>horteth them alſo, to make greater haſte and to take more care than ſome of them did hitherto to prepare and defend themſelves, repreſenting the great neceſsity and danger, their enemies extraordinary arming, threatnings and executions would elſe bring them into. Theſe
+<pb n="12" facs="tcp:177448:7"/>letters of his have very much rejoyced and ſtrengthened all the good party, eſpecially <hi>Norimberg, Strasburg</hi> and other good Townes, the moſt part whereof are already well provided and armed. But <hi>Memming</hi> lying ſome what aſide and feeling already thoſe Imperiall forces as came and yet daily come out of <hi>Italy</hi> (which amount to ſome ſix or ſeven thouſand thereabouts) neere them, they feare (as being neereſt to the danger) the execution might beginne at their Towne, howbeit they have as yet and doe ſtill refuſe any fur<g ref="char:EOLhyphen"/>ther contribution and admittance of an Imperiall Garriſon, where formerly they were ſubject unto.</p>
+               <p>The Elector of <hi>Saxen</hi> hath laid 10. or 12. thouſand men up<g ref="char:EOLhyphen"/>on his frontiers and makes great preparation.</p>
+               <p>
+                  <hi>Tilly</hi> marches with an armie of 25000. men up into <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> either into the Dukedome of <hi>Wimar,</hi> as ſome thinke, or elſe towards the Country of <hi>Heſſen</hi> (as is moſt likely) there to de<g ref="char:EOLhyphen"/>feat the forces of the Circle of the <hi>Rhine,</hi> who have there their <hi>Rendezvous,</hi> and part whereof have lately defeated ſome of thoſe Imperiall tsoops that <hi>Tilly</hi> had ſent to hinder their ſaid <hi>Rendezvous.</hi>
+               </p>
+               <p>The King of <hi>Sweden</hi> (having firmed a royall Campe, ſince the Elector of <hi>Saxen</hi> did not grant him for his ſurety and re<g ref="char:EOLhyphen"/>treate the Towne of <hi>Wittenberg</hi> to put his Garriſon into, nor paſſage through his Country) expecteth more forces out of <hi>Pruſſia</hi> and from other parts; meane while he hath an armie in <hi>Sileſia</hi> to which he hath ſent ſome troopes for reinforcing and the better to oppoſe them all againſt the <hi>Jmperialiſts</hi> that in<g ref="char:EOLhyphen"/>tend to beſiege <hi>Croſſen.</hi>
+               </p>
+               <p>Some of his Caualrie met lately with five Companies of Crabates that came out of <hi>Magdenburg</hi> laden with very rich booty they made there, which five Companies were all defea<g ref="char:EOLhyphen"/>ted, and left all their riches (as if they had expreſly fetched the ſame) unto the <hi>Swediſh</hi> troopes.</p>
+               <p>The like good fortune befell lately to the Garriſon of <hi>Weſell,</hi> who met with a convoy that carried much money towards the <hi>Spaniſh</hi> Camp, which convoy being alſo beaten left all the money behinde them in their enemies hands.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:177448:8"/>
+               <head>From Arnhem the <hi>11.</hi> of Iune.</head>
+               <p>Our ſouldiers of <hi>Weſell</hi> and the neere adjoyning Garriſons 160 ſtrong, have defeated a Convoy which was going from <hi>Culin</hi> to <hi>Antwerp,</hi> they were conducted by thoſe of <hi>Rhynberk</hi> &amp; <hi>Orſoy,</hi> &amp; were ſet upon by our men neere about <hi>Deuren.</hi> In which exploit our ſoldiers obtained great booty 150000 Rix<g ref="char:EOLhyphen"/>dollers in ſpecie, much Silke &amp; other rich commoditie, swhere<g ref="char:EOLhyphen"/>with divers Carts were laden. The reſt of the bootie beſides the readie Coine doth amount to the ſumme of 250000 Rix<g ref="char:EOLhyphen"/>dollers, this bootie they brought into <hi>Weſell</hi> laſt Sunday in the vening and 60 or 70 ſerviceable horſes, and 2 Enſignes. The ſpaniſh ſoldiers fled all of them, onely the waggoners, and ſome other labouring men oppoſed our men, and killed 3 or 4 of them, but there was no meanes for them to prevaile.</p>
+               <p>The Governour, Chancellour, &amp; Councell of the Province of <hi>Geldria,</hi> and the Earldome of <hi>Zutphen</hi> have preſcribed a ge<g ref="char:EOLhyphen"/>nerall day of meeting, the 17 of <hi>Iune</hi> at <hi>Nimmegen,</hi> where the whole countrie is to appeare.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>12.</hi> of <hi>Iune</hi> from the Army of his Excellence the Prince of <hi>Orange.</hi>
+               </head>
+               <p>Whereas his Excell the Prince of <hi>Orange,</hi> had pitcht Armie at the ſide of the River <hi>Ley</hi> before the Citie <hi>Bridges</hi> the 3 of moneth, each one thought that his Excellence was of intenti<g ref="char:EOLhyphen"/>on to approach &amp; beſiege the ſaid Citie. But now it appeares probably that his Excel<g ref="char:punc">▪</g> was not ſo minded, for he did not en<g ref="char:EOLhyphen"/>trench himſelfe there, but lay with his Army in the field onely. In the meane while certaine Committees were ſent out of the ſaid Citie in the name of the 4 parts of Flanders to treat with his Excelle<g ref="char:cmbAbbrStroke">̄</g>ce concerning the Contribution which was behind and had long time beene unpayd, inſomuch that they gave ſe<g ref="char:EOLhyphen"/>curitie for entire payment of 10 yeares contribution. Where<g ref="char:EOLhyphen"/>upon his Excell with his whole Army departed, and the verie ſame night tooke his reſting place at <hi>Maldegom,</hi> where we paſ<g ref="char:EOLhyphen"/>ſed the 5 of <hi>Iune</hi> over the river <hi>Lieve</hi> towards <hi>Walichem,</hi> and from thence toward <hi>Eckelo,</hi> and <hi>Caprick,</hi> and the 7 of ſune re<g ref="char:EOLhyphen"/>turned backe with our whole armie at <hi>Watervliet,</hi> where his Excell. inſtantly cauſed retrenchments to be caſt up all along the <hi>Holland Dike,</hi> for the better enſuring of his armie, ſo that in
+<pb n="13" facs="tcp:177448:8"/>caſe the ſpaniſh forces (which as wee underſtood had continu<g ref="char:EOLhyphen"/>ally followed us) had come upon us, then had we taken the ſaid Dike for our defence.</p>
+               <p>The 8 of <hi>Iune</hi> the proviſion of his Excell. was embarqued, and his horſe troopes, being commanded preſently as ſoone as they ſhould be landed to march toward <hi>Bergen op Zoome.</hi> Ye<g ref="char:EOLhyphen"/>ſterday were all the Land-forces ſhipt, and all the waggons put aboard. The firelockes in the meane time ſtood in battle array, and held the watch untill all things were ſafely embarqued. Thus with the whole traine of our armie wee marched from <hi>Yſendyck</hi> to <hi>Rammekens,</hi> &amp; ſo downwards, ſayling many hun<g ref="char:EOLhyphen"/>dred ſhippes together, &amp; ſo forſooke the <hi>Flemiſh coaſts,</hi> which country in this our expedition wee have wholly brought un<g ref="char:EOLhyphen"/>der contribution untill the verie Citie <hi>Geudt.</hi> His Excellence in this expedition had a verie vigilant regard over his whole armie, and a ſpeciall care that all things might be carried verie orderly, inſomuch that hee cauſed many of his ſoldiers to bee hanged for their miſdemeanours and inſolencies committed againſt the inhabitants of the Countrie: But the like care was not taken on the other ſide, for many of our ſoldiers which did ſtraggle ſomewhat out of their limits had by them their No<g ref="char:EOLhyphen"/>ſes and Eares cut off: Three ſoldiers wives with a child of 8 yeares were taken by the Flemiſh and hanged.</p>
+               <p>The ſame day that we came to <hi>Watervliet,</hi> the ſpaniſh that night arrived at <hi>Caprick,</hi> but did not ſhew themſelves any neerer unto us. So that in this enterprize, wee have not met with our enemie to any purpoſe, and have found no reſiſtance worthy of relation. Onely wee were informed that the ene<g ref="char:EOLhyphen"/>mie brought his whole armie together, therewith intending to cut off all paſſages from our armie and hinder the victualls from comming to us. What ſhall follow hereafter in time we ſhall acquaint you.</p>
+            </div>
+            <div type="part">
+               <head>From Dort <hi>13.</hi> of Iune.</head>
+               <p>The armie of his Excellence the Prince of <hi>Orange</hi> is returned againe out of Flaunders into theſe parts. Before this Citie are many ſhips laden with Ordnance, Munition, proviſion, and all warlike neceſſaries: Moſt of the horſemen were landed at <hi>Geer<g ref="char:EOLhyphen"/>truydenbergh,</hi> &amp; preſently haſted thence to <hi>Ooſterhout, Gilſen</hi> &amp; other villages about <hi>Breda.</hi> The foot forces ſayle all of them
+<pb n="14" facs="tcp:177448:9"/>toward the high &amp; lower <hi>Swalwe,</hi> and <hi>Geertruydenbergh,</hi> whe<g ref="char:EOLhyphen"/>ther theſe alſo will land there the time will manifeſt. In the meane while here and in divers other places many thouſands of loaves are baked for the armie.</p>
+               <p>The countrie people in the countrie of <hi>Heuſden</hi> and <hi>Alte<g ref="char:EOLhyphen"/>na,</hi> flye with all their goods and moveables from their country habitations into the Cities. Their Excellencies the States have prohibited preaching among the Catholickes in the Villages &amp; Townes belonging to <hi>S'hertogenboſch,</hi> ſo that all the Churches are ſhut up continually.</p>
+               <p>Wee have intelligence from <hi>Antwerpe</hi> with the laſt letters, that in the beginning of <hi>May</hi> the fleet of 25 ſhips at <hi>Lisbona</hi> is ſet ſayle, among theſe are 15 Gallioons with 4000, ſome ſup<g ref="char:EOLhyphen"/>poſe they are gone toward <hi>Calis Malis</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ioyne themſelves to the <hi>Caſtilian armado,</hi> others are o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inion that they are bound for <hi>Cabo-verde,</hi> there to expect <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reſt, and ſo to paſſe forward to <hi>Braſill.</hi>
+               </p>
+               <p>His Majeſtie of <hi>France</hi> is at S. <hi>Germani,</hi> and the Queene Mother is arrived at <hi>Paris</hi> with her whole family or houſe<g ref="char:EOLhyphen"/>hold: But his Majeſtie had rather that ſhee had remained at <hi>Moulins:</hi> Her guard is now leſſe than it hath beene neyther is ſhee ſo ſtrongly warded as formerly. The kings brother is ſtill a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Nancie,</hi> The Lord Preſident <hi>Legneux</hi> is much condemned, for not counſelling his Majeſties brother for the beſt in theſe differences, The king hath charged the Parliament to call <hi>Marſhall Marilack</hi> in queſtion, which might eaſily endanger his life, by reaſon that hee hath committed groſſe faults in <hi>Champ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gne,</hi> as alſo in <hi>Italy,</hi> in warlike affaires.</p>
+               <p>The<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> goes a ſtrong report, that new warres is verie like to enſue <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etweene th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pope,</hi> and the great Duke of <hi>Moſcovy,</hi> concerning the ſucceſsion in <hi>
+                     <g ref="char:V">Ʋ</g>rbinaet.</hi>
+               </p>
+               <p>Norwithſtanding the Commander <hi>Pinſen</hi> his ranſome is readie, nevertheleſſe he is not yet at libertie. Count <hi>Henry van<g ref="char:EOLhyphen"/>den Bergh</hi> queſtioning one day with him, what he thought the Prince of <hi>Orange</hi> his enterprize might bee, hee anſwered him merrily, His Excellence is wiſe enough to conceale that from me, knowing that I cannot keepe counſell. The ſaid count <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> is yet at <hi>Venlo</hi> with 3 or 4 hundred Marriners, it is thought that he will attempt ſomething or other.</p>
+               <pb facs="tcp:177448:9"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
